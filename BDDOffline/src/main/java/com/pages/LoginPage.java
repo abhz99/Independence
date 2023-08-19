@@ -28,7 +28,10 @@ public class LoginPage {
 	private WebElement loginButton;
 	
 //=============================================================================
-	
+	public void newMethod()
+	{
+		System.out.println("new method added for gitHub practise");
+	}
 	public void setUname(String email)
 	{
 		uname.clear();
