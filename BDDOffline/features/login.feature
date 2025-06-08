@@ -15,5 +15,5 @@ Given I navigate to the Website
 When I entered an invalid user name
 And I entered the password
 And click on the sign-in button
-Then Error message should display
+Then Error message should be display
 But Re-login option should be available 	
